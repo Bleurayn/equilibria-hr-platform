@@ -3,7 +3,7 @@
 # Equilibria – Next-Gen HR Intelligence Platform
 
 **Live demo**: https://bleurayn.github.io/equilibria-hr-platform/  
-**Permanent DOI**: (add after Zenodo)
+**Permanent DOI**: https://doi.org/10.5281/zenodo.17885185
 
 Real-time workload balancing, bias prevention, wellbeing tracking, and cultural integration for modern global teams.
 
